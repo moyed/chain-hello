@@ -1,6 +1,6 @@
-# Chainlit Agent
+# OpenAI Agent
 
-A simple chat assistant built with Chainlit and Gemini API.
+A simple chat assistant built with OpenAI API, Chainlit and Gemini API.
 
 ## Description
 
